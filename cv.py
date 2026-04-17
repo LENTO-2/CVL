@@ -21,23 +21,23 @@ st.write("Adresse: Dakar-St-louis")
 
 st.markdown("---")
 
-#profils
+#Profils
 
-st.header("profils")
+st.header("Profils")
 
 st.write("Etudiant en premiere annee de BTS en Geomatique et en Sociologie","Passionne par les systemes d'informatique  geographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python")
 
 #Informations
 
-st.header("Formation")
+st.header("Formations")
 
 st.write("**Brevet Technique et Superieur (BTS)**")
 st.write("Centre d'Entrepreneuriat et de Developpement Technique")
 
 st.write("** Licence en Sociologie**")
+st.write("Universite Numerique Cheikh Hamidou Kane (UNCHK)")
 
 st.write("**Baccalaureat**")
-
 st.write("UCAD (universite Cheikh Anta Diop)")
 
 #Competences
@@ -46,7 +46,7 @@ st.header("Competences")
 
 st.markdown("""
 
--Maitrise Outils Informatiques
+-Maitrise Outils Informatiques(microsoft office)
 
 -Cartographie
 
