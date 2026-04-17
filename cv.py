@@ -26,7 +26,7 @@ st.markdown("---")
 st.header("Profils")
 
 st.write("Technicien Supeieur en Geomatique ","specialisé dans les Systemes d'Informations  Geographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python" "
-Chercheur en Sociologie")
+"Chercheur en Sociologie")
 
 #Informations
 
