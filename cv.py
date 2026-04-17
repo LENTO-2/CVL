@@ -17,8 +17,6 @@ st.write("Etudiant en Geomatique")
 
 st.write("Email: laminendiaye052@gmail.com")
 
-st.write("Tel: +221 761374394")
-
 st.write("Adresse: Dakar-St-louis")
 
 st.markdown("---")
