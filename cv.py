@@ -13,7 +13,7 @@ st.markdown("---")
 
 st.write("Mouhamed Lamine Ndiaye")
 
-st.write("Etudiant en Geomatique")
+st.write("Technicien Superieuren  Geomatique")
 
 st.write("Email: laminendiaye052@gmail.com")
 
@@ -25,7 +25,8 @@ st.markdown("---")
 
 st.header("Profils")
 
-st.write("Etudiant en premiere annee de BTS en Geomatique et en Sociologie","Passionne par les systemes d'informatique  geographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python")
+st.write("Technicien Supeieur en Geomatique ","specialisé dans les Systemes d'Informations  Geographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python" "
+Chercheur en Sociologie")
 
 #Informations
 
