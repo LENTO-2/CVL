@@ -22,7 +22,7 @@ st.write("Adresse: Dakar-St-louis")
 st.markdown("---")
 
 st.write("Technicien Supeieur en Geomatique ","specialisé dans les Systemes d'Informations  Geographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python")
-st.write("Cherccheur en Sociologie"(Socio-Anthropologue)
+st.write("Licence en Sociologie")
 #Informations
 
 st.header("Parcours")
