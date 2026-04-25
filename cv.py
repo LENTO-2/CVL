@@ -7,7 +7,6 @@ st.set_page_config("cv Mouhamed lamine Ndiaye, page_icon, layout=centered")
 
 st.title("Mouhamed Lamine Ndiaye")
 
-st.markdown("---")
 
 # Informations personnelles
 
@@ -19,7 +18,7 @@ st.write("Email: laminendiaye052@gmail.com")
 
 st.write("Adresse: Dakar-St-louis")
 
-st.markdown("---")
+
 
 st.write("Technicien Supeieur en Geomatique ","specialisé dans les Systemes d'Informations  Geographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python")
 st.write("Licence en Sociologie")
@@ -38,11 +37,11 @@ st.write("UCAD (universite Cheikh Anta Diop)")
 
 #Compétences
 
-st.header("Competences")
+st.header("Compétences")
 
 st.markdown("""
 
--Maitrise Outils Informatiques(microsoft office)
+-Suite Office
 
 -Cartographie
 
@@ -52,7 +51,7 @@ st.markdown("""
 
 -python
 
--Dessin Architectural
+-Déssin Architectural
 
 -Collecte de donnees
 
