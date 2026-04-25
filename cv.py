@@ -26,7 +26,7 @@ st.write("Licence en Sociologie")
 
 st.header("Parcours")
          
-st.write("** Licence en Sociologie**")
+st.write("**Licence en Sociologie**")
 st.write("Universite Numerique Cheikh Hamidou Kane (UNCHK)")
          
 st.write("**Brevet Technique et Superieur (BTS)**")
