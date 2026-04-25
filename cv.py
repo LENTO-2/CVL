@@ -21,26 +21,22 @@ st.write("Adresse: Dakar-St-louis")
 
 st.markdown("---")
 
-#Profils
-
-st.header("Profils")
-
 st.write("Technicien Supeieur en Geomatique ","specialisé dans les Systemes d'Informations  Geographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python")
 st.write("Cherccheur en Sociologie"(Socio-Anthropologue)
 #Informations
 
-st.header("Formations")
-
-st.write("**Brevet Technique et Superieur (BTS)**")
-st.write("Centre d'Entrepreneuriat et de Developpement Technique")
-
+st.header("Parcours")
+         
 st.write("** Licence en Sociologie**")
 st.write("Universite Numerique Cheikh Hamidou Kane (UNCHK)")
+         
+st.write("**Brevet Technique et Superieur (BTS)**")
+st.write("Centre d'Entrepreneuriat et de Developpement Technique"))
 
 st.write("**Baccalaureat**")
 st.write("UCAD (universite Cheikh Anta Diop)")
 
-#Competences
+#Compétences
 
 st.header("Competences")
 
