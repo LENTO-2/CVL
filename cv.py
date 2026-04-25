@@ -12,7 +12,7 @@ st.title("Mouhamed Lamine Ndiaye")
 
 st.write("Mouhamed Lamine Ndiaye")
 
-st.write("Technicien Superieuren  Geomatique")
+st.write("Technicien Superieureur Géomatique")
 
 st.write("Email: laminendiaye052@gmail.com")
 
@@ -20,7 +20,7 @@ st.write("Adresse: Dakar")
 
 
 
-st.write("Technicien Supeieur en Geomatique ","specialisé dans les Systemes d'Informations  Geographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python")
+st.write("Technicien Supeieur en Géomatique ","spécialisé dans les Systémes d'Informations  Géographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python")
 st.write("Licence en Sociologie")
 #Informations
 
@@ -53,9 +53,9 @@ st.markdown("""
 
 -Déssin Architectural
 
--Collecte de donnees
+-Collecte de données
 
--Base de donnees spatiales et relationnelles
+-Base de données spatiales et relationnelles
 -Pilotage de Drone
 
 """)
