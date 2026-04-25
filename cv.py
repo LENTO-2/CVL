@@ -31,7 +31,7 @@ st.write("** Licence en Sociologie**")
 st.write("Universite Numerique Cheikh Hamidou Kane (UNCHK)")
          
 st.write("**Brevet Technique et Superieur (BTS)**")
-st.write("Centre d'Entrepreneuriat et de Developpement Technique"))
+st.write("Centre d'Entrepreneuriat et de Developpement Technique")
 
 st.write("**Baccalaureat**")
 st.write("UCAD (universite Cheikh Anta Diop)")
