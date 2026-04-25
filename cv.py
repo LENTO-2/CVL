@@ -16,7 +16,7 @@ st.write("Technicien Superieuren  Geomatique")
 
 st.write("Email: laminendiaye052@gmail.com")
 
-st.write("Adresse: Dakar-St-louis")
+st.write("Adresse: Dakar")
 
 
 
