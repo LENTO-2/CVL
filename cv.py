@@ -21,7 +21,6 @@ st.write("Adresse: Dakar")
 
 
 st.write("Téchnicien Supeieur en Géomatique ","spécialisé dans les Systémes d'Informations  Géographiques(SIG)","la Cartographie, Analyse spatiale, Dessin architectural, Topographie, Python")
-st.write("Licence en Sociologie")
 #Informations
 
 st.header("Parcours")
